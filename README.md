@@ -1,3 +1,2 @@
 # Tech-Python
-Just Refer it 
-Feel to ask doubt and wanna make changes ping me xD ;)
+Notes for Daily Classes so you can refer this notes and projects for your neccessary things
